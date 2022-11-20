@@ -48,7 +48,7 @@ function initializeClock(id, endtime) {
   updateClock(); 
   var timeinterval = setInterval(updateClock, 1000);
 }
-var deadline = 'November 12 2022 07:59:59';
+var deadline = 'December 03 2022 08:59:59';
 
 initializeClock('clockdiv', deadline);
 });

@@ -6,7 +6,8 @@
   import { openModal } from 'svelte-modals';
 
   function handleClick() {
-    window.open('https://onlivestudios.in/e/devfest-2022-google-developers-group/')
+    const url ='https://gdg.community.dev/events/details/google-gdg-settat-presents-devfest-2022/'
+    window.open(url, '_blank').focus();
   }
 </script>
 
@@ -32,11 +33,11 @@
     <h1
       class="text-start text-4xl font-bold tracking-tight text-black md:text-center md:text-6xl lg:text-center lg:text-7xl"
     >
-      Chennai’s most awaited developer conference
+      Google’s most awaited developer conference
     </h1>
     <p class="max-w-2xl text-start text-gray-700 md:text-center lg:text-center">
       Come learn, network and celebrate with the Google Developer Ecosystem
-      while also learning to hack on Android, Chrome, and Web.
+      while also learning ML, Cloud, and Web.
     </p>
   </div>
 
@@ -46,7 +47,7 @@
   >
     <Button
       id="button-hero-get-tickets"
-      title="Watch sessions"
+      title="Get Your Tickets"
       onClick={() => handleClick()}
     >
       <Icon width="20" height="20" name="ticket" />
@@ -58,21 +59,15 @@
   >
     <div class="flex items-center space-x-2">
       <i class="fa fa-calendar" />
-      <p>November 12th</p>
+      <p>December 3th</p>
       <i class="fa fa-location-arrow" />
-      <a href="https://maps.app.goo.gl/bsSnx8benaooqzDi7"
-        ><p>Le Royal Méridien, Chennai</p></a>
-    </div>
-    <div><p>&</p></div>
-    <div class="flex items-center space-x-2">
-      <i class="fa fa-calendar" />
-      <p>November 13th</p>
-      <i class="fa fa-location-arrow" />
-      <a href="https://maps.app.goo.gl/ob8wN6gQo5uxeZUi9?g_st=iw"
-        ><p>Infosys limited, Sholinganallur</p></a>
+      <a href="https://goo.gl/maps/4Cd2obaCUHUJ8GJ76"
+        ><p>FST Settat</p></a>
     </div>
   </div>
-
+  <div class="items-center">
+    <Countdown />
+  </div>
 </section>
 
 <style>

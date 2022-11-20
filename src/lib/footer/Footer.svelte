@@ -52,7 +52,7 @@
     </nav>
 
     <p class="mt-8 text-center text-base text-gray-400">
-      &copy; 2022 GDG Chennai. All rights reserved.
+      &copy; 2022 GDG Settat x Marrakesh. All rights reserved.
     </p>
   </div>
 </footer>

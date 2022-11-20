@@ -3,7 +3,8 @@
   import Icon from '$lib/icon/Icon.svelte';
 
   function handleClick() {
-    location.href='/agenda'
+    const url ='https://gdg.community.dev/events/details/google-gdg-settat-presents-devfest-2022/'
+    window.open(url, '_blank').focus();
   }
 
   function download() {
@@ -60,8 +61,7 @@
               </h3>
               <p class="mt-6 text-base text-gray-500">
                 Come. Learn, Network and Celebrate with Google Developer Groups
-                and Google Developer Experts while also learning to hack on
-                Android, Chrome, and Web.
+                and Google Developer Experts while also learning ML, Cloud, and Web.
               </p>
               <div class="mt-8">
                 <div class="flex items-center">
@@ -102,14 +102,14 @@
                   <Icon width="20" height="20" name="arrowup" />
                 </Button>
                 <div class="pt-4">
-                <Button
+                <!-- <Button
                   id="button-agenda-download"
                   title="Download agenda"
                   isSecondaryButton={true}
                   onClick={() => download()}
                 >
                   <Icon width="20" height="20" name="download" />
-                </Button>
+                </Button> -->
               </div>
               </div>
               <div class="mt-4 text-left text-xs">
@@ -125,10 +125,8 @@
                 </p>
                 <ul class="font-light">
                   <li>
-                    Day 1 - 12th November - will be focusing on tech talks,
-                    speakers and conference
+                    3th November - will be focusing on tech talks and workshops
                   </li>
-                  <li>Day 2 - 13th November - will be a workshop day!</li>
                 </ul>
               </div>
             </div>

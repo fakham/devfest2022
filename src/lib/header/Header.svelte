@@ -27,15 +27,15 @@
       active: false
     },
     {
-      name: 'Memories',
-      href: '/#memories',
+      name: 'Partners',
+      href: '/#partners',
       active: false
     },
-    {
-      name: 'Badges',
-      href: '/badges',
-      active: false
-    }
+    // {
+    //   name: 'Badges',
+    //   href: '/badges',
+    //   active: false
+    // }
   ];
 
   let activeStyle: string =
@@ -75,11 +75,11 @@
     <div class="flex w-full items-center justify-around">
       <div class="flex items-center">
         <a href="/">
-          <span class="sr-only">GDG Chennai - Devfest 2022</span>
+          <span class="sr-only">GDG Settat x Marrakesh - Devfest 2022</span>
           <img
             class="h-24 w-auto"
             src="/devfest-chennai.svg"
-            alt="GDG Chennai - Devfest 2022"
+            alt="GDG Settat x Marrakesh - Devfest 2022"
           />
         </a>
       </div>

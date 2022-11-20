@@ -42,8 +42,8 @@
     <Hero />
     <Why />
     <Tickets />
-    <Sponsors />
+    <!-- <Sponsors /> -->
     <Partners />
-    <Memories />
+    <!-- <Memories /> -->
   </div>
 </div>
