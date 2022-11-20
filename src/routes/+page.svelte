@@ -10,8 +10,8 @@
 </script>
 
 <svelte:head>
-  <title>GDG Chennai - Devfest 2022</title>
-  <meta name="description" content="GDG Chennai - Devfest 2022" />
+  <title>GDG Settat x Marrakesh - Devfest 2022</title>
+  <meta name="description" content="GDG Settat x Marrakesh - Devfest 2022" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="theme-color" content="#ffffff" />
   <meta name="twitter:card" content="summary_large_image" />
@@ -24,9 +24,9 @@
     content="https://devfest.gdgchennai.in/gdgch-banner.png"
   />
   <meta property="og:type" content="website" />
-  <meta property="og:title" content="GDG Chennai - Devfest 2022" />
-  <meta property="og:description" content="GDG Chennai - Devfest 2022" />
-  <meta property="og:site_name" content="GDG Chennai - Devfest 2022" />
+  <meta property="og:title" content="GDG Settat x Marrakesh - Devfest 2022" />
+  <meta property="og:description" content="GDG Settat x Marrakesh - Devfest 2022" />
+  <meta property="og:site_name" content="GDG Settat x Marrakesh - Devfest 2022" />
   <meta property="og:url" content="https://devfest.gdgchennai.in/" />
   <meta
     property="og:image"
