@@ -37,7 +37,7 @@
   <div
     class="mx-auto max-w-7xl overflow-hidden py-12 px-4 sm:px-6 lg:px-8 mb-9"
   >
-    <p class="text-center text-gray-400 mb-4 text-lg font-medium">
+    <!-- <p class="text-center text-gray-400 mb-4 text-lg font-medium">
       Connect with us
     </p>
 
@@ -49,7 +49,7 @@
           </a>
         </div>
       {/each}
-    </nav>
+    </nav> -->
 
     <p class="mt-8 text-center text-base text-gray-400">
       &copy; 2022 GDG Settat x Marrakesh. All rights reserved.

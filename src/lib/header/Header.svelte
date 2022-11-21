@@ -77,8 +77,8 @@
         <a href="/">
           <span class="sr-only">GDG Settat x Marrakesh - Devfest 2022</span>
           <img
-            class="h-24 w-auto"
-            src="/devfest-chennai.svg"
+            class="h-20 w-auto p-4"
+            src="/devfest-settat-marrakesh-cropped.svg"
             alt="GDG Settat x Marrakesh - Devfest 2022"
           />
         </a>

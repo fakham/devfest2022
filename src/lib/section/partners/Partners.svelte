@@ -10,20 +10,29 @@
   <div class="bg-white">
     <div class="w-full max-w-7xl py-12 px-4 sm:px-6 lg:px-8">
       <div class="grid grid-cols-2 gap-8 md:grid-cols-6 lg:grid-cols-4">
-        <div class="col-span-1 flex justify-center md:col-span-2 lg:col-span-1">
-          <a href="https://gdg.community.dev/gdg-cloud-chennai/"><img src="/gdg-cloud-chennai.svg" class="img-border" alt="GDG Cloud Chennai" /></a>
-        </div>
-        <div class="col-span-1 flex justify-center md:col-span-2 lg:col-span-1">
-          <a href="https://twitter.com/wtmchennai"><img src="/wtm-chennai.svg" class="img-border" alt="WTM Chennai" /></a>
-        </div>
-        <div class="col-span-1 flex justify-center md:col-span-2 lg:col-span-1">
-          <a href="https://www.meetup.com/TFUGChennai/"><img src="/tfug-chennai.svg" class="img-border" alt="TFUG Chennai" /></a>
-        </div>
-        <div class="col-span-1 flex justify-center md:col-span-2 lg:col-span-1">
-          <a href="https://gdsc.community.dev/srm-institute-of-science-and-technology-ramapuram-chennai/"><img src="/gdsc-srm-rpm.svg" class="img-border" alt="GDSC SRM Ramapuram" /></a>
+        <div class="col-span-1 flex justify-center md:col-span-3 lg:col-span-1">
+          <a href="https://gdg.community.dev/gdg-settat/"><img src="/logos-02.svg" class="img-border h-32" alt="GDG Settat" /></a>
         </div>
         <div class="col-span-1 flex justify-center md:col-span-3 lg:col-span-1">
-          <a href="https://gdsc.community.dev/hindustan-institute-of-technology-science-chennai/"><img src="/gdsc-hits.svg" class="img-border" alt="GDSC HITS" /></a>
+          <a href="https://gdg.community.dev/gdg-marrakesh/"><img src="/logos-03.svg" class="img-border h-32" alt="GDG Marrakesh" /></a>
+        </div>
+        <div class="col-span-1 flex justify-center md:col-span-2 lg:col-span-1">
+          <a href="https://fva.ma"><img src="/fva.svg" class="img-border h-32 w-64" alt="FVA" /></a>
+        </div>
+        <div class="col-span-1 flex justify-center md:col-span-2 lg:col-span-1">
+          <a href="https://gdsc.community.dev/university-of-hassan-1/"><img src="/gdscuh1.svg" class="img-border h-32" alt="GDSC UH1" /></a>
+        </div>
+        <div class="col-span-1 flex justify-center md:col-span-2 lg:col-span-1">
+          <a href="https://gdsc.community.dev/university-of-hassan-1-national-school-of-applied-sciences-berrechid/"><img src="/gdscensaber.svg" class="img-border h-32" alt="GDSC ENSA Berrechid" /></a>
+        </div>
+        <div class="col-span-1 flex justify-center md:col-span-2 lg:col-span-1">
+          <a href="https://gdsc.community.dev/national-school-of-applied-sciences-safi/"><img src="/gdsensasafi.svg" class="img-border h-32" alt="GDSC ENSA Safi" /></a>
+        </div>
+        <div class="col-span-1 flex justify-center md:col-span-3 lg:col-span-1">
+          <a href="https://developers.google.com/womentechmakers/"><img src="/logos-01.svg" class="img-border h-32" alt="WTM Marrakesh" /></a>
+        </div>
+        <div class="col-span-1 flex justify-center md:col-span-3 lg:col-span-1">
+          <a href="https://web.facebook.com/WomenTechmakersSettat/"><img src="/logos-04.svg" class="img-border h-32" alt="WTM Settat" /></a>
         </div>
       </div>
     </div>
