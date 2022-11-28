@@ -3,7 +3,7 @@
   import Icon from '$lib/icon/Icon.svelte';
 
   function handleClick() {
-    const url ='https://gdg.community.dev/events/details/google-gdg-settat-presents-devfest-2022/'
+    const url ='https://gdg.community.dev/events/details/google-gdg-settat-presents-devfest-settat-x-marrakesh-2022/'
     window.open(url, '_blank').focus();
   }
 
@@ -125,7 +125,7 @@
                 </p>
                 <ul class="font-light">
                   <li>
-                    3th November - will be focusing on tech talks and workshops
+                    17th December - will be focusing on tech talks and workshops
                   </li>
                 </ul>
               </div>

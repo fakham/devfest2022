@@ -6,7 +6,7 @@
   import { openModal } from 'svelte-modals';
 
   function handleClick() {
-    const url ='https://gdg.community.dev/events/details/google-gdg-settat-presents-devfest-2022/'
+    const url ='https://gdg.community.dev/events/details/google-gdg-settat-presents-devfest-settat-x-marrakesh-2022/'
     window.open(url, '_blank').focus();
   }
 </script>
@@ -59,7 +59,7 @@
   >
     <div class="flex items-center space-x-2">
       <i class="fa fa-calendar" />
-      <p>December 3th</p>
+      <p>December 17th</p>
       <i class="fa fa-location-arrow" />
       <a href="https://goo.gl/maps/4Cd2obaCUHUJ8GJ76"
         ><p>FST Settat</p></a>
