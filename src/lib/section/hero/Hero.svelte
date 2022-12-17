@@ -59,7 +59,7 @@
   >
     <div class="flex items-center space-x-2">
       <i class="fa fa-calendar" />
-      <p>December 17th</p>
+      <p>December 31th</p>
       <i class="fa fa-location-arrow" />
       <a href="https://goo.gl/maps/4Cd2obaCUHUJ8GJ76"
         ><p>FST Settat</p></a>

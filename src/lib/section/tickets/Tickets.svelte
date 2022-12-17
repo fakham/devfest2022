@@ -125,7 +125,7 @@
                 </p>
                 <ul class="font-light">
                   <li>
-                    17th December - will be focusing on tech talks and workshops
+                    31th December - will be focusing on tech talks and workshops
                   </li>
                 </ul>
               </div>
