@@ -15,24 +15,24 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="theme-color" content="#ffffff" />
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:site" content="@gdgchennai" />
+  <!-- <meta name="twitter:site" content="@gdgchennai" />
   <meta name="twitter:creator" content="@gdgchennai" />
   <meta name="twitter:title" content="GDG Chennai - Devfest 2022" />
-  <meta name="twitter:description" content="GDG Chennai - Devfest 2022" />
-  <meta
+  <meta name="twitter:description" content="GDG Chennai - Devfest 2022" /> -->
+  <!-- <meta
     name="twitter:image"
     content="https://devfest.gdgchennai.in/gdgch-banner.png"
-  />
+  /> -->
   <meta property="og:type" content="website" />
   <meta property="og:title" content="GDG Settat x Marrakesh - Devfest 2022" />
   <meta property="og:description" content="GDG Settat x Marrakesh - Devfest 2022" />
   <meta property="og:site_name" content="GDG Settat x Marrakesh - Devfest 2022" />
-  <meta property="og:url" content="https://devfest.gdgchennai.in/" />
+  <!-- <meta property="og:url" content="https://devfest.gdgchennai.in/" />
   <meta
     property="og:image"
     content="https://devfest.gdgchennai.in/gdgch-banner.png"
   />
-</svelte:head>
+</svelte:head> -->
 
 <div
   class="flex min-h-screen flex-col items-center justify-start overflow-hidden p-8"
