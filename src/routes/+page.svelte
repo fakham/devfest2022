@@ -31,8 +31,8 @@
   <meta
     property="og:image"
     content="https://devfest.gdgchennai.in/gdgch-banner.png"
-  />
-</svelte:head> -->
+  /> -->
+</svelte:head>
 
 <div
   class="flex min-h-screen flex-col items-center justify-start overflow-hidden p-8"
