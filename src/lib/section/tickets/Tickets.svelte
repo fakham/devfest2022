@@ -102,14 +102,14 @@
                   <Icon width="20" height="20" name="arrowup" />
                 </Button>
                 <div class="pt-4">
-                <!-- <Button
+                <Button
                   id="button-agenda-download"
                   title="Download agenda"
                   isSecondaryButton={true}
                   onClick={() => download()}
                 >
                   <Icon width="20" height="20" name="download" />
-                </Button> -->
+                </Button>
               </div>
               </div>
               <div class="mt-4 text-left text-xs">

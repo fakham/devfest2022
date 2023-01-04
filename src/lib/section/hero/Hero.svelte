@@ -43,7 +43,7 @@
 
   <div
     id="hero-cta-group"
-    class="flex w-full max-w-md flex-col items-center justify-start md:flex-row lg:flex-row"
+    class="flex w-full max-w-2xl flex-col items-center justify-start space-y-4 md:flex-row md:space-x-4 md:space-y-0 lg:flex-row"
   >
     <Button
       id="button-hero-get-tickets"
@@ -51,6 +51,18 @@
       onClick={() => handleClick()}
     >
       <Icon width="20" height="20" name="ticket" />
+    </Button>
+
+    <Button
+      id="button-hero-add-to-calendar"
+      title="Add to calendar"
+      isSecondaryButton={true}
+      onClick={() =>
+        window.open(
+          'https://calendar.google.com/calendar/u/0/r/eventedit?text=DevFest2022+Settat+x+Marrakesh&details=Welcome+to+DevFest+2022+Settat+x+Marrakesh.+This+is+GDG%27s+most+awaited+developer+conference.%0A%0ANote:+This+event+is+invite+only.+Please+visit+https://devfest22.gdgsettat.ma+for+more+info.&dates=20230107T093000/20230107T173000&location=Facult%C3%A9+des+sciences+et+techniques,+BP+:+577,+Route+de+Casa,+Settat,+Morocco'
+        )}
+    >
+      <i class="fa fa-calendar" />
     </Button>
   </div>
 
