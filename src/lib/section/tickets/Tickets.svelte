@@ -95,7 +95,7 @@
               <div class="mt-6 mx-10">
                 <Button
                   id="button-agenda"
-                  title="Check agenda"
+                  title="Check event"
                   isSecondaryButton={false}
                   onClick={() => handleClick()}
                 >
